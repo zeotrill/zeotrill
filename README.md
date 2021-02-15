@@ -1,1 +1,3 @@
-# zeotrill
+# ZeoTrill Games
+
+### Parent Company: ZeoFlow
